@@ -19,5 +19,3 @@ if (numberB > max) max = numberB;
 if (numberC > max) max = numberC;
 
 Console.Write($"Максимальное число: {max}");
-
-//Console.WriteLine(max);
